@@ -23,7 +23,7 @@ def largest_product(array)
     inner = 0
     index += 1
   end
-  return "#{solution_product} (#{solution1} * #{solution2})"
+  puts "#{solution_product} (#{solution1} * #{solution2})"
 end
 
 p largest_product([5, -2, 1, -9, -7, 2, 6])
