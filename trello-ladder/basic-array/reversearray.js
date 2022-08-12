@@ -3,7 +3,7 @@
 // Input: [1, 2, 3, 4, 5]
 // Output: [5, 4, 3, 2, 1]
 
-function reversearray(array) {
+function reverseArray(array) {
   var solution = [];
   for (let index = array.length - 1; index >= 0; index--) {
     solution.push(array[index]);
@@ -11,4 +11,4 @@ function reversearray(array) {
   return solution;
 }
 
-console.log(reversearray([1, 2, 3, 4, 5]));
+console.log(reverseArray([1, 2, 3, 4, 5]));
