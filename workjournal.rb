@@ -16,3 +16,5 @@
 # It was so fun and a great experience to share with my brother.
 
 # Posting on Instagram about it today and tomorrow.
+
+# Heading up Black Mountian in the Absarokas this morning. Sunday Funday for yer boi, let's get it!
