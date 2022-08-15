@@ -3,11 +3,17 @@
 // Input: [4, 2, 5, 99, -4]
 // Output: [8, 4, 10, 198, -8]
 
+// function mapdouble(array) {
+//   var solution = array.map((number) => {
+//     return number * 2;
+//   });
+//   return solution;
+// }
+
+// console.log(mapdouble([4, 2, 5, 99, -4]));
+
 function mapdouble(array) {
-  var solution = array.map((number) => {
-    return number * 2;
-  });
-  return solution;
+  return array.map((x) => x * 2);
 }
 
 console.log(mapdouble([4, 2, 5, 99, -4]));
