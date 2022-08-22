@@ -5,3 +5,15 @@
 
 // Input: “abcdefghijklmnopqrstuvwxyz”
 // Output: false
+
+function showMeTheMoney(string) {
+  for (let index = 0; index < string.length; index++) {
+    if (string[index] === "$") {
+      return true;
+    }
+  }
+  return false;
+}
+
+console.log(showMeTheMoney("i hate $ but i love money i know i know im crazy"));
+console.log(showMeTheMoney("abcdefghijklmnopqrstuvwxyz"));
