@@ -18,3 +18,5 @@
 # Posting on Instagram about it today and tomorrow.
 
 # Heading up Black Mountian in the Absarokas this morning. Sunday Funday for yer boi, let's get it!
+
+# Hollowtop tomorrow? Maybe Alex Lowe or Mt Bole. Or Emigrant in the Absaroka.
