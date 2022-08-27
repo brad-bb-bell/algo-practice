@@ -20,3 +20,5 @@
 # Heading up Black Mountian in the Absarokas this morning. Sunday Funday for yer boi, let's get it!
 
 # Hollowtop tomorrow? Maybe Alex Lowe or Mt Bole. Or Emigrant in the Absaroka.
+
+# Welp, did Hollowtop Mountain. It was definitely more fun than I expected. And very beautiful. Curry came with.
