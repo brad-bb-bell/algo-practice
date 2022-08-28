@@ -22,3 +22,5 @@
 # Hollowtop tomorrow? Maybe Alex Lowe or Mt Bole. Or Emigrant in the Absaroka.
 
 # Welp, did Hollowtop Mountain. It was definitely more fun than I expected. And very beautiful. Curry came with.
+
+# Climbed the Sphinx today in the northern end of the southern Madisons. Excellent hike!
