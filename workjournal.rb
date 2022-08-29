@@ -24,3 +24,5 @@
 # Welp, did Hollowtop Mountain. It was definitely more fun than I expected. And very beautiful. Curry came with.
 
 # Climbed the Sphinx today in the northern end of the southern Madisons. Excellent hike!
+
+# Kinda sore today! Yesterday was 12 miles and 4,500' vertical. Not huge but pretty solid.
