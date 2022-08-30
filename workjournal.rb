@@ -26,3 +26,5 @@
 # Climbed the Sphinx today in the northern end of the southern Madisons. Excellent hike!
 
 # Kinda sore today! Yesterday was 12 miles and 4,500' vertical. Not huge but pretty solid.
+
+# Was supposed to climb this evening. Temps are too hot. Rescheduled for tomorrow morning.
