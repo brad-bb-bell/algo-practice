@@ -28,3 +28,5 @@
 # Kinda sore today! Yesterday was 12 miles and 4,500' vertical. Not huge but pretty solid.
 
 # Was supposed to climb this evening. Temps are too hot. Rescheduled for tomorrow morning.
+
+# Climbed two routes in Gallatin Canyon today. Crystal Delight 5.8 and Fire Starter 5.9. Both were awesome. Felt really good to be back on the rock!
