@@ -30,3 +30,5 @@
 # Was supposed to climb this evening. Temps are too hot. Rescheduled for tomorrow morning.
 
 # Climbed two routes in Gallatin Canyon today. Crystal Delight 5.8 and Fire Starter 5.9. Both were awesome. Felt really good to be back on the rock!
+
+# Heading back to the Canyon this morning. I've got a new climbing partner who I've never met but seems like he will be great. Looking at climbing 4 pitches of The Waltz 5.7
