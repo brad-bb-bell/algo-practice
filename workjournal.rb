@@ -34,3 +34,5 @@
 # Heading back to the Canyon this morning. I've got a new climbing partner who I've never met but seems like he will be great. Looking at climbing 4 pitches of The Waltz 5.7
 
 # Fantasy football draft going down
+
+# Might going climbing in Marble today. Otherwise gna hang with the fam. Last day for exerciese before the weekend.
