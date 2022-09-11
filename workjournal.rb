@@ -36,3 +36,5 @@
 # Fantasy football draft going down
 
 # Might going climbing in Marble today. Otherwise gna hang with the fam. Last day for exerciese before the weekend.
+
+# Went to Robbie's wedding, it was awesome. Cried twice.
