@@ -38,3 +38,5 @@
 # Might going climbing in Marble today. Otherwise gna hang with the fam. Last day for exerciese before the weekend.
 
 # Went to Robbie's wedding, it was awesome. Cried twice.
+
+# Broncos lost their first game of the season last night. Too many penalties. Two fumbles on the 1 yard line. Horrendous coaching at the end. We'll be fiiiiiiine.
