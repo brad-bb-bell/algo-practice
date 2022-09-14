@@ -40,3 +40,5 @@
 # Went to Robbie's wedding, it was awesome. Cried twice.
 
 # Broncos lost their first game of the season last night. Too many penalties. Two fumbles on the 1 yard line. Horrendous coaching at the end. We'll be fiiiiiiine.
+
+# Driving to Denver today. Bought tickets to the Broncos games this Sunday :)
