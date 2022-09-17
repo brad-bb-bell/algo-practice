@@ -42,3 +42,5 @@
 # Broncos lost their first game of the season last night. Too many penalties. Two fumbles on the 1 yard line. Horrendous coaching at the end. We'll be fiiiiiiine.
 
 # Driving to Denver today. Bought tickets to the Broncos games this Sunday :)
+
+# Cassie's baby shower today. Me and Olive walked around Cherry Creek for a bit. She's sitting up and has been very happy and laughing a lot. We're going to the Broncos game tomorrow.
