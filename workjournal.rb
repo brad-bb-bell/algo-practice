@@ -48,3 +48,5 @@
 # Gameday baby! Texans @ Broncos 2:25pm. Baby Olive's first Broncos game. We will be going with Dean and Caelynn and driving to Casper, WY to start our journey home as soon as the game is over.
 
 # Finally home after our long trip. First day of work at MSU tomorrow, I'm excited!
+
+# First day of work! I've got to print out a bunch of forms for HR.
