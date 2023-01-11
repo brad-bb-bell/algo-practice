@@ -50,3 +50,5 @@
 # Finally home after our long trip. First day of work at MSU tomorrow, I'm excited!
 
 # First day of work! I've got to print out a bunch of forms for HR.
+
+# Whoa it's 1/10/23, I've been working for over three months now. Love my job. Getting lots of experience. Working on a few Vue front-end projects.
