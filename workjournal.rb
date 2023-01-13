@@ -54,3 +54,5 @@
 # Whoa it's 1/10/23, I've been working for over three months now. Love my job. Getting lots of experience. Working on a few Vue front-end projects.
 
 # Took a Mental Health First Aid course today. It was fine. I'm stressed because I feel like I need to be putting time into the project that I'm working on.
+
+# Taking the day off of work today to ski with Katrina and Lizzy but will be working on Monday, MLK Day, to make up for it. Project is going well.
