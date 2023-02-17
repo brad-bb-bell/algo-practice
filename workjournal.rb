@@ -58,3 +58,5 @@
 # Taking the day off of work today to ski with Katrina and Lizzy but will be working on Monday, MLK Day, to make up for it. Project is going well.
 
 # Sunday chores baby!
+
+# President's weekend lezgo!
