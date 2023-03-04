@@ -60,3 +60,5 @@
 # Sunday chores baby!
 
 # President's weekend lezgo!
+
+# Just went to baby Hugo's first birthday party. He's the man. Good times!
