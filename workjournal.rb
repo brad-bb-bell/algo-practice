@@ -64,3 +64,5 @@
 # Just went to baby Hugo's first birthday party. He's the man. Good times!
 
 # Eating chicken burgers for dinner... I've forgotten to push to github the last two days!
+
+# Took a half mental health day today to ski at B Bowl. 13" in 24 hours, I'd grade it a B. 
