@@ -66,3 +66,5 @@
 # Eating chicken burgers for dinner... I've forgotten to push to github the last two days!
 
 # Took a half mental health day today to ski at B Bowl. 13" in 24 hours, I'd grade it a B. 
+
+# About to start reading JavaScript: The Good Parts by Douglas Crockford. I'm excited to learn more about the language that I use every day.
